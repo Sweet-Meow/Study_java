@@ -43,5 +43,10 @@ public class study3_02 {
         c2.setOprands(20,40);
         c2.sum();
         c2.avg();
+
+        Calculator c3 = new Calculator();
+        c3.setOprands(100,200);
+        c3.sum();
+        c3.avg();
     }
 }
